@@ -1,5 +1,7 @@
 # Maze Game
 
+Try it online! https://torinak.com/qaop/#l=https://keilanknight.com/speccy/mazegame.tap
+
 A simple maze game for the ZX Spectrum, written to demonstrate how easy it is to create games with [Boriel BASIC](https://zxbasic.readthedocs.io/).
 
 Each level generates a new random maze. Collect all the diamonds, then reach the exit to continue to the next stage.
